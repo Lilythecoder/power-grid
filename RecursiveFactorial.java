@@ -10,5 +10,6 @@ class RecursiveFactorial {
        System.out.println
 	   (args[0]+ "! is equal to "
 	    + recursiveFactorial(Integer.parseInt(args[0])));
+	System.out.println("try1 here, not main");
    }
 }
